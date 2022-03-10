@@ -1,5 +1,5 @@
 [package]
-name = "adapter"
+name = "nito-adapter"
 version = "0.1.0"
 edition = "2021"
 
